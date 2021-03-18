@@ -2,6 +2,10 @@ package samples.demo;
 
 public class GitTest {
 
+	public static class locationx {
+
+	}
+
 	private class Location {
 
 		public static void main(String[] args) {
