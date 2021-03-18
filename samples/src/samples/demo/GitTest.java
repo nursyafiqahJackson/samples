@@ -2,17 +2,18 @@ package samples.demo;
 
 public class GitTest {
 
-	public static class locationx {
-
-	}
-
+	
 	private class Location {
-
-		public static void main(String[] args) {
-			// TODO Auto-generated method stub
-
+		
+		private String name;
+		private int locationId;
+		private int description;
+		
+		public String getName() {
+			return name; 
 		}
 
+		
 	}
 
 	public static void main(String[] args) {
